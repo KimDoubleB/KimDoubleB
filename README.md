@@ -8,7 +8,7 @@
 <div align=center>
     <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF">
 </div>
-<h3 align="center">A passionate developer from Korea</h3>
+<h3 align="center"><a href="https://introduce-bb.herokuapp.com/" target="_blank">About me</a></h3>
 
 <hr>
 
