@@ -8,7 +8,7 @@
 <div align=center>
     <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF">
 </div>
-<h3 align="center"><a href="https://doubleb.site/" target="_blank">About me</a></h3>
+<h3 align="center"><a href="https://binux.tistory.com/" target="_blank">Me ?</a></h3>
 
 <hr>
 
