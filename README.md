@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋🏻, I'm Bobae</h1>
-
-
-
-<div align=center>
-    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF">
-</div>
-
 <div align=center>
     <p><b>My Two Beliefs</b></p>
     <p>Code Never Lies.</p>
