@@ -1,5 +1,4 @@
 <div align=center>
-    <p><b>My Two Beliefs</b></p>
     <p>Code Never Lies.</p>
     <p>No Measurement, No Improvement.</p>
 </div>
